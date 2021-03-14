@@ -1,0 +1,7 @@
+C:\Users\Madhv\source\repos\DelegateUseCase\bin\Debug\DelegateUseCase.exe.config
+C:\Users\Madhv\source\repos\DelegateUseCase\bin\Debug\DelegateUseCase.exe
+C:\Users\Madhv\source\repos\DelegateUseCase\bin\Debug\DelegateUseCase.pdb
+C:\Users\Madhv\source\repos\DelegateUseCase\obj\Debug\DelegateUseCase.csprojAssemblyReference.cache
+C:\Users\Madhv\source\repos\DelegateUseCase\obj\Debug\DelegateUseCase.csproj.CoreCompileInputs.cache
+C:\Users\Madhv\source\repos\DelegateUseCase\obj\Debug\DelegateUseCase.exe
+C:\Users\Madhv\source\repos\DelegateUseCase\obj\Debug\DelegateUseCase.pdb
